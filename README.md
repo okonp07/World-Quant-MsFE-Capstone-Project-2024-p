@@ -140,9 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or contributions, feel free to reach out:
-- **Email**: okonp07@gmail.com
--          : paidamoyomutepfa@gmail.com
--          : fracksonmakwangwala@gmail.com
+- **Email**: okonp07@gmail.com, paidamoyomutepfa@gmail.com, fracksonmakwangwala@gmail.com
 - **GitHub**: [https://github.com/okonp07](https://github.com/okonp07)
 
 
