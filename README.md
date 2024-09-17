@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-###**Description**: The Development and Evaluation of a Machine Learning-Based Swing Trading Strategy for Cryptocurrencies
+##**Description**: The Development and Evaluation of a Machine Learning-Based Swing Trading Strategy for Cryptocurrencies
 
 This project aims to design and develop a machine learning-based swing trading strategy for cryptocurrencies, particularly focusing on short- to medium-term price movements. The volatile and unpredictable nature of cryptocurrency markets demands an advanced approach to price forecasting, integrating technical indicators, sentiment analysis, and macroeconomic data.
 
