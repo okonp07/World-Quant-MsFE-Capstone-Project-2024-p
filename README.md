@@ -1,4 +1,4 @@
-# World-Quant-MsFE-Capstone-Project-2024-p
+# World-Quant-MsFE-Capstone-Project-2024
 # Machine Learning-Based Swing Trading Strategy for Cryptocurrencies
 
 ## Project Overview
